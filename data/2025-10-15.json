@@ -756,18 +756,6 @@
     "score": 52.46960989501132,
     "surviveRatio": 79.26988265971316
 }, {
-    "deathPerMinute": 0.05042016806722689,
-    "deathRatio": 16.666666666666668,
-    "dmgPerSecond": 4559.30756302521,
-    "downPerMinute": 0.20168067226890757,
-    "downsPerMinute": 2.1942857142857144,
-    "durationInCombat": 875,
-    "id": "无声话剧.9306",
-    "opScore": 0.0,
-    "profession": "全息",
-    "score": 89.91596638655463,
-    "surviveRatio": 73.52941176470588
-}, {
     "deathPerMinute": 0.10084033613445378,
     "deathRatio": 33.333333333333336,
     "dmgPerSecond": 5192.202521008403,
@@ -935,28 +923,4 @@
     "profession": "暴风",
     "score": 63.73217553688142,
     "surviveRatio": 72.85714285714286
-}, {
-    "deathPerMinute": 0.0,
-    "deathRatio": 0.0,
-    "dmgPerSecond": 123.55813953488372,
-    "downPerMinute": 0.0,
-    "downsPerMinute": 0.0,
-    "durationInCombat": 122,
-    "id": "李献计.6703",
-    "opScore": 0.0,
-    "profession": "魂兽",
-    "score": 51.37286821705426,
-    "surviveRatio": 94.57364341085271
-}, {
-    "deathPerMinute": 0.0,
-    "deathRatio": 0.0,
-    "dmgPerSecond": 17.64824120603015,
-    "downPerMinute": 0.0,
-    "downsPerMinute": 0.0,
-    "durationInCombat": 177,
-    "id": "小阿铎.5706",
-    "opScore": 0.0,
-    "profession": "魂兽",
-    "score": 50.19609156895589,
-    "surviveRatio": 88.94472361809045
 }]
