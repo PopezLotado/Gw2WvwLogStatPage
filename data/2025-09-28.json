@@ -500,18 +500,6 @@
     "score": 70.73832119457603,
     "surviveRatio": 51.25448028673835
 }, {
-    "cleansesInPerMinute": 34.77272727272727,
-    "deathPerMinute": 0.0,
-    "deathRatio": 0.0,
-    "downPerMinute": 0.2469135802469136,
-    "durationInCombat": 88,
-    "id": "killy.5320",
-    "opScore": 0.0,
-    "profession": "奶德",
-    "regenerationUptime": 59.884,
-    "score": 57.03933557800224,
-    "surviveRatio": 36.21399176954733
-}, {
     "cleansesInPerMinute": 64.95843520782395,
     "deathPerMinute": 0.11862396204033215,
     "deathRatio": 31.25,
@@ -593,20 +581,6 @@
     "ripsInPerMinute": 24.567180031864048,
     "score": 48.10090281465746,
     "surviveRatio": 89.66666666666667
-}, {
-    "appliedCrowdControlPerMinute": 0.0,
-    "cleansesInPerMinute": 11.775700934579438,
-    "deathPerMinute": 0.0,
-    "deathRatio": 0.0,
-    "downPerMinute": 0.0,
-    "durationInCombat": 107,
-    "id": "石云堡.4627",
-    "opScore": 0.0,
-    "profession": "灾厄",
-    "resPerMinute": 0.0,
-    "ripsInPerMinute": 0.0,
-    "score": 43.532710280373834,
-    "surviveRatio": 44.03292181069959
 }, {
     "appliedCrowdControlPerMinute": 0.4090909090909091,
     "cleansesInPerMinute": 28.636363636363637,
