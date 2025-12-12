@@ -1,8 +1,6 @@
-# wrangler.toml
-name = "gw2wvwlog" # 必须唯一，和方法1的名称一致
+# 核心必填配置（仅保留这些，不要加多余符号/空行）
+name = "gw2wvwlog"  # 项目名：仅小写字母/数字/连字符，必须唯一
 compatibility_date = "2025-12-12"
 
-[
-pages
-]
-directory = "./" # 静态资源根目录（你的index.html所在目录）
+# Pages 专属配置（解决 "pages_build_output_dir" 提示）
+pages_build_output_dir = "./"  # 静态资源根目录（你的index.html所在路径）
