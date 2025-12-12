@@ -1,0 +1,8 @@
+# wrangler.toml
+name = "gw2wvwlog" # 必须唯一，和方法1的名称一致
+compatibility_date = "2025-12-12"
+
+[
+pages
+]
+directory = "./" # 静态资源根目录（你的index.html所在目录）
