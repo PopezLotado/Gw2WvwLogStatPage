@@ -1,16 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1815eb59-876e-49d7-98f7-9e518d44f1ee" name="默认变更列表" comment="" />
+    <list default="true" id="1815eb59-876e-49d7-98f7-9e518d44f1ee" name="默认变更列表" comment="20260614更新">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="309" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000110929299726" />
+      <entry key="MS500" value="1.1029069856052136" />
+      <entry key="S2" value="1.8281877156229451" />
+      <entry key="S5" value="2.8743288466072903" />
+      <entry key="S10" value="3.6761871229157" />
+      <entry key="S30" value="4.481002309639444" />
+      <entry key="S60" value="4.729193165785782" />
+      <entry key="M2" value="4.861633406429947" />
+      <entry key="M5" value="4.943923982194923" />
+      <entry key="M10" value="4.971838875462657" />
+      <entry key="M15" value="4.981198441726327" />
+      <entry key="M30" value="4.9905854540638845" />
+      <entry key="H1" value="4.995289279850523" />
+      <entry key="H2" value="4.997643777443715" />
+      <entry key="H4" value="4.998821673015635" />
+      <entry key="D1" value="4.9998035822027855" />
+      <entry key="W1" value="4.999971939580716" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8705611308427257" />
+      <entry key="MS500" value="1.0745659428120378" />
+      <entry key="S2" value="1.8190562296514547" />
+      <entry key="S5" value="2.8693107264188513" />
+      <entry key="S10" value="3.673120178169487" />
+      <entry key="S30" value="4.4797880210988765" />
+      <entry key="S60" value="4.728556027287449" />
+      <entry key="M2" value="4.861306802221172" />
+      <entry key="M5" value="4.943791339272791" />
+      <entry key="M10" value="4.9717722142079595" />
+      <entry key="M15" value="4.981153924910228" />
+      <entry key="M30" value="4.990563157547882" />
+      <entry key="H1" value="4.995278122043321" />
+      <entry key="H2" value="4.997638196150032" />
+      <entry key="H4" value="4.998818881770925" />
+      <entry key="D1" value="4.999803116912268" />
+      <entry key="W1" value="4.999971873108607" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="30JKE3tR5gcQpHPEatQmelWuaC5" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -20,14 +95,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,6 +133,8 @@
       <workItem from="1753340122537" duration="3673000" />
       <workItem from="1753780082431" duration="144000" />
       <workItem from="1753836663292" duration="1875000" />
+      <workItem from="1782088993537" duration="107000" />
+      <workItem from="1784358983479" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="打包测试">
       <created>1753340155229</created>
@@ -83,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753780206193</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20260614更新">
+      <option name="closed" value="true" />
+      <created>1781947718330</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781947718330</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,12 +203,16 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6eba31da-cc41-4472-bd3f-39bf16ed9f15" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="6eba31da-cc41-4472-bd3f-39bf16ed9f15">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -124,6 +231,7 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
@@ -134,12 +242,6 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="6eba31da-cc41-4472-bd3f-39bf16ed9f15" value="TOOL_WINDOW" />
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -147,6 +249,7 @@
     <MESSAGE value="20250724更新" />
     <MESSAGE value="20250724更新v3" />
     <MESSAGE value="20250729更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250729更新" />
+    <MESSAGE value="20260614更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="20260614更新" />
   </component>
 </project>
